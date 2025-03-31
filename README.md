@@ -29,7 +29,8 @@ Trained a ResNet model with transfer learning, visualized results, and tested on
 ---
 
 ### 📸 Screenshot
-![Prediction](./Cane11_screenshot.png)
+
+![image (5)](https://github.com/user-attachments/assets/4b21c201-bb1a-4f94-88a1-6758b43e25fc)
 
 ---
 
