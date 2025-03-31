@@ -1,7 +1,8 @@
 # 🧠 Creative Fork — FastAI Learn Sprint
 
 This repo documents my hands-on journey through the FastAI course, remixing the official notebooks with a creative and narrative twist.
-Note: This project is a personal fork and remix of muellerzr's fastai course notebook.
+
+**Note:** This project is a personal fork and remix of muellerzr's fastai course notebook.
 Huge thanks to Zachary Mueller and the fastai community for the original material and inspiration.
 
 ## 📓 Day 1: Pet Breed Classifier 🐶🐱
