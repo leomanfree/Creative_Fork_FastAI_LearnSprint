@@ -35,6 +35,21 @@ Trained a ResNet model with transfer learning, visualized results, and tested on
 
 ![image (5)](https://github.com/user-attachments/assets/4b21c201-bb1a-4f94-88a1-6758b43e25fc)
 
+### Day 2 — Model Rebuild From Memory
+
+On Day 2, I didn’t follow the tutorial.
+
+- I reviewed my own repo and @muellerzr’s notebook  
+- Discussed with ChatGPT to identify the Minimum Viable Engine  
+- Rewrote everything by hand, then reimplemented in Colab  
+- Debugged from memory (notably: `PAT` vs `pat`)  
+- Model predicted `basset_hound` at 99.99% confidence
+  ![image](https://github.com/user-attachments/assets/5c291f48-7554-4ae0-8f1e-da234d78f9cb)
+
+
+This notebook reflects that process:  
+[`02_Model_Rebuild_From_Memory.ipynb`](./02_Model_Rebuild_From_Memory.ipynb)
+
 ---
 
 Follow the repo as I iterate day by day 🌀  
