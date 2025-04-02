@@ -57,7 +57,7 @@ ML as a continuation of syllogistic reasoning in computational form.
 
 > "Knowledge arises not from repetition, but from contradiction."
 
-Inspired by Hegel’s *Science of Logic*, not the *Phenomenology*:
+Inspired by Hegel’s *Science of Logic*:
 
 - The logic of becoming  
 - Contradiction as the motor of development  
