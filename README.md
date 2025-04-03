@@ -19,6 +19,10 @@ Over 72 hours, I:
 
 ---
 
+## 🧭 [Learn Log] (https://deserted-ladybug-896.notion.site/Learn-Log-1c7e55b865378010982dff575412b8f2?pvs=4)
+
+---
+
 ## 📁 Notebooks
 
 - [Day 1 – Build](Creative_Fork_FastAI_LearnSprint.ipynb)
