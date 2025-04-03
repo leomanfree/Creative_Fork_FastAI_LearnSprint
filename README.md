@@ -22,7 +22,7 @@ Over 72 hours, I:
 ## 📁 Notebooks
 
 - [Day 1 – Build](Creative_Fork_FastAI_LearnSprint.ipynb)
-- [Day 2 – Distill](link-to-day2-notebook)
+- [Day 2 – Distill](02_Model_Rebuild_From_Memory.ipynb)
 - [Day 3 – Refine & Reflect](link-to-day3-notebook)
 
 ---
