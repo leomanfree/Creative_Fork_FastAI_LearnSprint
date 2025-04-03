@@ -21,7 +21,7 @@ Over 72 hours, I:
 
 ## 📁 Notebooks
 
-- [Day 1 – Build](link-to-day1-notebook)
+- [Day 1 – Build](Creative_Fork_FastAI_LearnSprint.ipynb)
 - [Day 2 – Distill](link-to-day2-notebook)
 - [Day 3 – Refine & Reflect](link-to-day3-notebook)
 
