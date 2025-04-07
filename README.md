@@ -98,3 +98,52 @@ The repo is live, the model runs, but the real experiment is:
 > How far can we stretch the meaning of “learning” — with and beyond AI?
 
 DM me if you're exploring the same questions.
+
+🔮 Alchemical Symbols Classifier – Bonus Remix
+
+As part of the FastAI Learnathon @ Network School, I challenged myself to ship a bonus model — weird, symbolic, and fast.
+
+**A classifier of alchemical glyphs.**  
+Trained on a small handcrafted dataset representing key archetypal elements and classical substances.
+
+📂 Dataset  
+Originally, I tried to render Unicode alchemical symbols using Python + PIL — but the Unicode-to-font rendering was **pretty buggy** (some glyphs wouldn’t display or save properly).
+
+So I pivoted:  
+→ I manually built a tiny dataset with simple clean images representing:
+
+- 🌬 Air  
+- 🔥 Fire  
+- 💧 Water  
+- 🌍 Earth  
+- 🜚 Gold  
+- 🜛 Silver  
+- 🜔 Salt  
+- 🜍 Sulfur  
+- ☿ Mercury
+
+🧠 Goal  
+Test the FastAI pipeline on abstract/symbolic concepts.  
+Play with minimal data. Ship something weird. Earn 🍕.
+
+🛠️ Tech Stack
+
+- Custom image dataset (hand-curated)
+- Fast.ai `DataBlock` and `cnn_learner`
+- Trained with ResNet-18 and `learn.fine_tune(4)`
+- Ran predictions on single-symbol test images
+
+📈 Results  
+Even with very limited data, model reached solid accuracy due to class clarity.  
+The real win: remixing the pipeline, debugging hard font issues, and shipping.
+
+📁 Notebook  
+See: `day3_alchemy_classifier.ipynb`
+
+---
+
+🙏 Thanks to the Learnathon for the permission to explore.
+
+🧘‍♂️ *“Your notebook is your temple. Your output is your offering.”*
+
+#fastai #learnathon #symbolicML #alchemy #creativefork
