@@ -99,7 +99,7 @@ The repo is live, the model runs, but the real experiment is:
 
 DM me if you're exploring the same questions.
 
-🔮 Alchemical Symbols Classifier – Bonus Remix
+## 🔮 Alchemical Symbols Classifier – Bonus Remix
 
 As part of the FastAI Learnathon @ Network School, I challenged myself to ship a bonus model — weird, symbolic, and fast.
 
